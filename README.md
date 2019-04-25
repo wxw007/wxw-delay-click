@@ -2,7 +2,9 @@
 防止元素被重复点击
 
 ### 安装
+```
 npm install wxw-delay-click --save
+```
 
 ### 引入方法
 在入口文件中,例如 main.js 引入
