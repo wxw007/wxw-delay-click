@@ -18,9 +18,9 @@ Vue.use(wxwDelayClick)
 <button v-delayClick='{func:functionName, time: 2000, params:[a,b,c]}'>登录</button>
 ```
 ### 参数说明
-**func**: 方法名 (必填)
-**time**: 两次点击延迟的时间 (可选)
-**params**: 方法的参数, 需要数组形式, 例如[a,b,c], (可选)
+- **func**: 方法名 (必填)
+- **time**: 两次点击延迟的时间 (可选)
+- **params**: 方法的参数, 需要数组形式, 例如[a,b,c], (可选)
 
 
 
