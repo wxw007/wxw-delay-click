@@ -1,0 +1,11 @@
+{
+  "name": "wxw-delay-click",
+  "version": "1.0.0",
+  "description": "防止元素重复点击",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wxw",
+  "license": "ISC"
+}
